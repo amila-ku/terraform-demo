@@ -1,4 +1,4 @@
-This is basic two tier architecture example from https://github.com/hashicorp/terraform used for demo how terraform can be used.
+This is basic two tier architecture example from https://github.com/hashicorp/terraform used for demonstrating how terraform can be used.
 
 # Basic Two-Tier AWS Architecture
 
